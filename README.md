@@ -1,1 +1,1 @@
-# trabajo-de-enfoque-dise-o-de-interfaces
+# trabajo-de-enfoque-diseño-de-interfaces
